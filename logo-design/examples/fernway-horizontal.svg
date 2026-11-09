@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
+  <title>Fernway (fictional brand) — horizontal lockup</title>
+  <!-- Exploration file: the wordmark uses <text> with a font stack.
+       For delivery, convert it to outlines with scripts/text-to-path.mjs. -->
+  <g transform="translate(16 16) scale(0.5625)">
+    <rect x="32" y="32" width="448" height="448" rx="112" fill="#1f5c4a"/>
+    <path fill="#f4efe6" d="M160 384V160c0-17.67 14.33-32 32-32h160v64H224v48h112v64H224v80z"/>
+    <circle cx="352" cy="352" r="32" fill="#e8a33d"/>
+  </g>
+  <text x="336" y="200" font-family="Manrope, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="128" font-weight="700" letter-spacing="-2" fill="#1f5c4a">fernway</text>
+</svg>

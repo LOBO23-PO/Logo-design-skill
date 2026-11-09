@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Fernway (fictional brand) — symbol</title>
+  <!-- Concept: a path winding through a hill, read as an "F" formed by negative space.
+       Built on a 512 grid with a 32px module. -->
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="#1f5c4a"/>
+  <path fill="#f4efe6" d="M160 384V160c0-17.67 14.33-32 32-32h160v64H224v48h112v64H224v80z"/>
+  <circle cx="352" cy="352" r="32" fill="#e8a33d"/>
+</svg>
